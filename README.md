@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <style>
-        .link{background-color=blue
+        .link{background-color:"blue"
         }
           
         </style>
