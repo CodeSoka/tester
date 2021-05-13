@@ -12,7 +12,7 @@
         </style>
     </head>
     <body>
-    <a href="https://oreo0329.github.io/tester/"> <img src="file:///C:/Users/carte/OneDrive/Tappbrick%20Stuff/faf29e99c9c720f4359194b3ddcad0a9.jpg" alt="The Tappbrick Logo"> </a>
+    <a href="https://oreo0329.github.io/tester/" class="link"> <img src="file:///C:/Users/carte/OneDrive/Tappbrick%20Stuff/faf29e99c9c720f4359194b3ddcad0a9.jpg" alt="The Tappbrick Logo"> </a>
         
       
         
